@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/PhotographStore/static/js/main.cd3b85b9.chunk.js",
+    "main.js.map": "/PhotographStore/static/js/main.cd3b85b9.chunk.js.map",
+    "runtime-main.js": "/PhotographStore/static/js/runtime-main.54fee822.js",
+    "runtime-main.js.map": "/PhotographStore/static/js/runtime-main.54fee822.js.map",
+    "static/js/2.6b653f55.chunk.js": "/PhotographStore/static/js/2.6b653f55.chunk.js",
+    "static/js/2.6b653f55.chunk.js.map": "/PhotographStore/static/js/2.6b653f55.chunk.js.map",
+    "index.html": "/PhotographStore/index.html",
+    "precache-manifest.e0fc0eb63c6fea0c52acc3d850973135.js": "/PhotographStore/precache-manifest.e0fc0eb63c6fea0c52acc3d850973135.js",
+    "service-worker.js": "/PhotographStore/service-worker.js",
+    "static/js/2.6b653f55.chunk.js.LICENSE.txt": "/PhotographStore/static/js/2.6b653f55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54fee822.js",
+    "static/js/2.6b653f55.chunk.js",
+    "static/js/main.cd3b85b9.chunk.js"
+  ]
+}
