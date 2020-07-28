@@ -8,8 +8,8 @@ function Header() {
     const cartClassName = cartItems.length > 0 ? "ri-shopping-cart-fill" : "ri-shopping-cart-line"
     return (
         <header>
-            <Link to="/PhotographStore"><h2>Photograph Store</h2></Link>
-            <Link to="/PhotographStore/cart">
+            <Link to="/"><h2>Photograph Store</h2></Link>
+            <Link to="/cart">
                 <i className={`${cartClassName} ri-fw ri-2x`}></i>
             </Link>
         </header>
