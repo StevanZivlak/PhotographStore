@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66c0af9207a6f57e7319e07ae0d37323",
+    "revision": "94913c3e4c12a04fd0df39795ff3757f",
     "url": "/PhotographStore/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PhotographStore/static/js/2.6b653f55.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a6bd67587eb85df47ba",
-    "url": "/PhotographStore/static/js/main.609beb61.chunk.js"
+    "revision": "a421b975a91730718043",
+    "url": "/PhotographStore/static/js/main.cd3b85b9.chunk.js"
   },
   {
     "revision": "6ad94707222b1f9d23a3",
