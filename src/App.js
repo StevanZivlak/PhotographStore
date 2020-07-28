@@ -10,11 +10,11 @@ function App() {
         <div>
             <Header />
             <Switch>
-                <Route exact path="/">
+                <Route exact path="/PhotographStore">
                     <Photos />
                 </Route>
                 
-                <Route path="/cart">
+                <Route path="/PhotographStore/cart">
                     <Cart />
                 </Route>
             </Switch>
