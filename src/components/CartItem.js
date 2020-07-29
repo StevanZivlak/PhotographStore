@@ -8,7 +8,7 @@ function CartItem({item}) {
     const {removeFromCart} = useContext(Context)
     
     const iconClassName = hovered ? "ri-delete-bin-fill" : "ri-delete-bin-line"
- 
+    
     return (
         <div className="cart-item">
             <i 
@@ -18,7 +18,7 @@ function CartItem({item}) {
             >
             </i>
             
-            <img src={item.url} width="130px" alt={item.alt}/>
+            <img src={item.url} width="130px" alt=""/>
             <p>$5.99</p>
         </div>
     )
@@ -28,12 +28,6 @@ CartItem.propTypes = {
     item: PropTypes.shape({
         url: PropTypes.string.isRequired
     })
-}
-
-CartItem.defaultProps = {
-    item: {
-        alt: "Sorry, the image couldn't be loaded."
-    }
 }
 
 export default CartItem

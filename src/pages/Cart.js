@@ -31,7 +31,7 @@ function Cart() {
                 <div className="order-button">
                     <button onClick={placeOrder}>{buttonText}</button>
                 </div> :
-                <p className="no-items-notification">You have no items in your cart.</p>
+                <p  className="no-items-notification">You have no items in your cart.</p>
             }
         </main>
     )

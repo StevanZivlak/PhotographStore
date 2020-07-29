@@ -30,7 +30,7 @@ function Image({className, img}) {
             className={`${className} image-container`}
             ref={ref}
         >
-            <img src={img.url} className="image-grid" alt={img.alt}/> {/*image alt doesn't exist yet in the api*/}
+            <img src={img.url} className="image-grid" alt=""/>
             {heartIcon()}
             {cartIcon()}
         </div>
@@ -45,6 +45,5 @@ Image.propTypes = {
         isFavorite: PropTypes.bool
     })
 }
-
 
 export default Image

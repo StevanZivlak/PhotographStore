@@ -5,6 +5,9 @@ import {BrowserRouter as Router} from "react-router-dom"
 import {ContextProvider} from "./Context"
 import App from "./App"
 
+import "./style.css"
+
+
 ReactDOM.render(
     <ContextProvider>
         <Router>

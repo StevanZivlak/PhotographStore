@@ -5,16 +5,17 @@ import Header from "./components/Header"
 import Cart from "./pages/Cart"
 import Photos from "./pages/Photos"
 
+
 function App() {    
     return (
         <div>
             <Header />
             <Switch>
-                <Route exact path="/">
+                <Route exact path="/PhotographStore">
                     <Photos />
                 </Route>
                 
-                <Route path="/cart">
+                <Route path="/PhotographStore/cart">
                     <Cart />
                 </Route>
             </Switch>
