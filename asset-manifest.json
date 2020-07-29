@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb8bb08b.chunk.css",
-    "main.js": "/static/js/main.9582c8bf.chunk.js",
-    "main.js.map": "/static/js/main.9582c8bf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a6481cd5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a6481cd5.js.map",
-    "static/js/2.6b653f55.chunk.js": "/static/js/2.6b653f55.chunk.js",
-    "static/js/2.6b653f55.chunk.js.map": "/static/js/2.6b653f55.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.258ca2dfa7fd493a1a9d316720fb6152.js": "/precache-manifest.258ca2dfa7fd493a1a9d316720fb6152.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.eb8bb08b.chunk.css.map": "/static/css/main.eb8bb08b.chunk.css.map",
-    "static/js/2.6b653f55.chunk.js.LICENSE.txt": "/static/js/2.6b653f55.chunk.js.LICENSE.txt"
+    "main.css": "/PhotographStore/static/css/main.eb8bb08b.chunk.css",
+    "main.js": "/PhotographStore/static/js/main.9582c8bf.chunk.js",
+    "main.js.map": "/PhotographStore/static/js/main.9582c8bf.chunk.js.map",
+    "runtime-main.js": "/PhotographStore/static/js/runtime-main.54fee822.js",
+    "runtime-main.js.map": "/PhotographStore/static/js/runtime-main.54fee822.js.map",
+    "static/js/2.6b653f55.chunk.js": "/PhotographStore/static/js/2.6b653f55.chunk.js",
+    "static/js/2.6b653f55.chunk.js.map": "/PhotographStore/static/js/2.6b653f55.chunk.js.map",
+    "index.html": "/PhotographStore/index.html",
+    "precache-manifest.4ddcc774b5690556c501398ea26587b5.js": "/PhotographStore/precache-manifest.4ddcc774b5690556c501398ea26587b5.js",
+    "service-worker.js": "/PhotographStore/service-worker.js",
+    "static/css/main.eb8bb08b.chunk.css.map": "/PhotographStore/static/css/main.eb8bb08b.chunk.css.map",
+    "static/js/2.6b653f55.chunk.js.LICENSE.txt": "/PhotographStore/static/js/2.6b653f55.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6481cd5.js",
+    "static/js/runtime-main.54fee822.js",
     "static/js/2.6b653f55.chunk.js",
     "static/css/main.eb8bb08b.chunk.css",
     "static/js/main.9582c8bf.chunk.js"
